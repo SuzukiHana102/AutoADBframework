@@ -1,0 +1,2 @@
+class ConnectionTemplate:
+    pass

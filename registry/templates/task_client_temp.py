@@ -1,0 +1,2 @@
+class TaskClientTemplate:
+    pass
